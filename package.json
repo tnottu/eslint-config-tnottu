@@ -17,9 +17,6 @@
   },
   "homepage": "https://github.com/tnottu/eslint-config-tnottu#readme",
   "dependencies": {
-    "eslint-config-airbnb-base": "^7.1.0"
-  },
-  "devDependencies": {
     "eslint": "^3.5.0",
     "eslint-config-airbnb-base": "^7.1.0",
     "eslint-plugin-import": "^1.14.0"
