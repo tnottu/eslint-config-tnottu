@@ -1,14 +1,14 @@
 {
     "extends": "airbnb-base",
     "rules": {
-        "indent": ["warn", "tab"],
-        "no-tabs": "off",
-        "func-names": "off",
         "comma-dangle": ["warn", "never"],
-        "no-use-before-define": ["error", { "functions": false, "classes": false }],
-        "no-underscore-dangle": "off",
+        "func-names": "off",
         "import/no-unresolved": "off",
+        "indent": ["warn", "tab"],
         "no-param-reassign": ["error", { "props": false }],
+        "no-tabs": "off",
+        "no-underscore-dangle": "off",
+        "no-use-before-define": ["error", { "functions": false, "classes": false }],
         "padded-blocks": "off",
         "strict": ["error", "safe"]
     }
