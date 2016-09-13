@@ -1,6 +1,7 @@
 {
     "extends": "airbnb-base",
     "rules": {
+        "arrow-parens": ["error", "always"],
         "comma-dangle": ["warn", "never"],
         "func-names": "off",
         "import/no-unresolved": "off",
