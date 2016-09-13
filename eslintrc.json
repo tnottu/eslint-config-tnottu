@@ -1,0 +1,15 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "indent": ["warn", "tab"],
+        "no-tabs": "off",
+        "func-names": "off",
+        "comma-dangle": ["warn", "never"],
+        "no-use-before-define": ["error", { "functions": false, "classes": false }],
+        "no-underscore-dangle": "off",
+        "import/no-unresolved": "off",
+        "no-param-reassign": ["error", { "props": false }],
+        "padded-blocks": "off",
+        "strict": ["error", "safe"]
+    }
+}
